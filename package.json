@@ -4,10 +4,7 @@
   "description": "April Template",
   "author": "Pasquale Vitiello <pasqualevitiello@gmail.com>",
   "license": "GPLv3",
-  "repository": {
-    "type": "git",
-    "url": "https://bitbucket.org/pasqualevitiello/april.git"
-  },
+  "repository": "https://bitbucket.org/pasqualevitiello/april.git",
   "bugs": {
     "url": "https://bitbucket.org/pasqualevitiello/april/issues"
   },
